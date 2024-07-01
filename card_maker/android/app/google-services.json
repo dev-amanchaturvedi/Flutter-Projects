@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609184800553",
+    "project_id": "cardmaker-d1408",
+    "storage_bucket": "cardmaker-d1408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609184800553:android:afbf48dbfb90d87c072138",
+        "android_client_info": {
+          "package_name": "com.amanchaturvedi.card_maker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609184800553-2vco20i7s3je6bn1d8k5kntv9f4rbr9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQw0jFn-VReXXmMLcV3gtHR_jHt1pYtsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609184800553-2vco20i7s3je6bn1d8k5kntv9f4rbr9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

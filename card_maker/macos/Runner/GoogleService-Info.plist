@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>609184800553-v8cb7kr66n6sfbaab7291tjjdj8bmk65.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.609184800553-v8cb7kr66n6sfbaab7291tjjdj8bmk65</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBqZIxvQwMTqWDJHQnrSilOf31IGssAiAo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>609184800553</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.amanchaturvedi.cardMaker</string>
+	<key>PROJECT_ID</key>
+	<string>cardmaker-d1408</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cardmaker-d1408.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:609184800553:ios:e3ce9c135b68ddb0072138</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543902695222",
+    "project_id": "nanny-helps",
+    "storage_bucket": "nanny-helps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543902695222:android:3505426a8b3220b474fd97",
+        "android_client_info": {
+          "package_name": "com.amanchaturvedi.nannyhelps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543902695222-ga2t8559er8ldk0udlefaqpk738k4ife.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUWPkr_gb5pSmIhv7ISWZHX9-FjsTH4Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543902695222-ga2t8559er8ldk0udlefaqpk738k4ife.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
